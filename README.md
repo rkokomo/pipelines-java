@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/YasukazuKobayashi/Tutorial/_apis/build/status/rkokomo.pipelines-java?branchName=master)](https://dev.azure.com/YasukazuKobayashi/Tutorial/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
